@@ -44,7 +44,7 @@ CarLux is a modern, feature-rich car booking platform designed for both users an
 
 
 ### Show More
->[Screenshots](https://github.com/SonaniAkshit/Bookstore-JspServlet/tree/main/BookStore/web/images/screenshots)
+>[Screenshots](https://github.com/SonaniAkshit/Car-Booking-System-PHP/tree/main/carlux/screenshots)
 
 
 
