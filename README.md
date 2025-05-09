@@ -31,16 +31,16 @@ CarLux is a modern, feature-rich car booking platform designed for both users an
 ![Home Page](carlux/screenshots/home.png)
 
 ### User Profile
-![User Profile](carlux/screenshots/home.png)
+![User Profile](carlux/screenshots/userprofile.png)
 
 ### Car List
-![Book List](carlux/screenshots/home.png)
+![Car List](carlux/screenshots/carlist.png)
 
 ### Car Details
-![Book Details](carlux/screenshots/home.png)
+![Car Details](carlux/screenshots/cardetail.png)
 
 ### Admin Dashboard
-![Admin Dashboard](carlux/screenshots/home.png)
+![Admin Dashboard](carlux/screenshots/admin-dashbord.png)
 
 
 ### Show More
