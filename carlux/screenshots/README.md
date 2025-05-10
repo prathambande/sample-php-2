@@ -27,17 +27,26 @@
 ## Admin Dashboard
 ![Admin Dashboard](admin-dashbord.png)
 
-## Admin Manage Cars
+## Manage Cars
 ![Admin](admin-managecar.png)
 
-## Admin Manage Brands
+## Manage Brands
 ![Home Page](admin-managebrands.png)
 
-## Admin UserLogs
+## UserLogs
 ![Home Page](admin-userlogs.png)
 
-## Admin Manage Bookings
+## Bookings
 ![Home Page](bookings.png)
 
-## Home Page
-![Home Page](home.png)
+## Car Wise Booking Report
+![Home Page](carwisebookingreport.png)
+
+## Date Wise Booking Report
+![Home Page](datewisebookingrepost.png)
+
+## Customer Wise Booking Report
+![Home Page](carwisebookingreport.png)
+
+## Date Range Wise Booking Report
+![Home Page](admin-bookingreport.png)
